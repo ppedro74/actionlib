@@ -39,7 +39,7 @@
 #include <boost/thread.hpp>
 #include <boost/shared_ptr.hpp>
 #include <boost/weak_ptr.hpp>
-
+#include "boost/bind.hpp"
 #include <list>
 
 #include "ros/console.h"
